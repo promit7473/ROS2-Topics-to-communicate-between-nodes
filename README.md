@@ -52,9 +52,3 @@ It may be easier to do the activity in this order: first create the number_publi
 In the number_counter node, the publisher will publish messages directly from the subscriber callback.
 
 And now, let’s get to work! :)
-
-Make sure you really spend some time on this activity, even if you can’t finish it. That’s the only way you will truly progress.
-
-You can do this activity in both Python and Cpp. In fact, you could write the first node in Python, and the second in Cpp, and vice versa!
-
-I’ll see you in the next lecture for the solution.
