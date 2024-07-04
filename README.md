@@ -1,7 +1,6 @@
 # ROS2-Topics-to-communicate-between-nodes ROS2 TASK
 
 Activity 002 - ROS2 Topics
-It’s time for a new activity on ROS2 topics.
 
 Here is a representation of the graph you should get at the end.
 
